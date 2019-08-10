@@ -1,7 +1,6 @@
 # NodeJs 学习笔记
 
-> 这是个人针对 NodeJs 相关知识的学习与整理
-> 整理至 [Node.js v10.16.1 文档](http://nodejs.cn/api/)
+> 这是个人针对 NodeJs 相关知识的学习与整理 [Node.js v10.16.1 文档](http://nodejs.cn/api/)
 
 - [assert - 断言](./assert)
 - [async_hooks - 异步钩子](./async_hooks)
